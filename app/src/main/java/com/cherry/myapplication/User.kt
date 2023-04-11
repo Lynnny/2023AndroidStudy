@@ -9,7 +9,6 @@ class User(var name : String, var age : Int) {
         }
     }
 
-
 fun main(){
     var user = User("김채린", 23)
     var user2 = User("김챈", 22, "happykcr")
